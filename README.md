@@ -11,6 +11,6 @@ It works for Minecraft Java servers, Bedrock and can also work on the website, i
 # How do the atack
 First enter the IP, port, number of packets and threads
 # Solutions
-[] If the message does not appear, the attack is working
-[] Maximum packet and thread limit is 4 characters
-[] If an Invalid IP message appears, it may be that the IP is working or it is actually invalid.
+[ ] If the message does not appear, the attack is working
+[ ] Maximum packet and thread limit is 4 characters
+[ ] If an Invalid IP message appears, it may be that the IP is working or it is actually invalid.
